@@ -1,0 +1,24 @@
+[10-Jun-2024 23:02:03 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/SimplePie/Cache/DB.php on line 50
+[10-Jun-2024 23:02:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/SimplePie/Cache/File.php:50
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/SimplePie/Cache/File.php on line 50
+[10-Jun-2024 23:02:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[10-Jun-2024 23:02:18 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[10-Jun-2024 23:02:22 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_Cache_DB" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[10-Jun-2024 23:02:25 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/SimplePie/Cache/Redis.php on line 27

@@ -1,0 +1,16 @@
+[10-Jun-2024 22:58:09 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[10-Jun-2024 22:58:38 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[11-Jun-2024 18:37:21 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[11-Jun-2024 18:37:31 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9

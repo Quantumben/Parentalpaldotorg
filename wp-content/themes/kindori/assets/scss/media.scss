@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Anton', sans-serif;
+    src: url('../fonts/Anton-Regular.woff2') format('woff2'),
+         url('../fonts/Anton-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.page-content .wp-smiley,
+.entry-content .wp-smiley,
+.comment-content .wp-smiley {
+    border: none;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+}
+
+embed,
+iframe,
+object {
+    max-width: 100%;
+}
+
+.custom-logo-link {
+    display: inline-block;
+}
+
+// Captions
+//--------------------------------------------------
+
+.wp-caption {
+    margin-bottom: 1.5em;
+    max-width: 100%;
+
+    img[class*="wp-image-"] {
+        @include center-block;
+    }
+
+    .wp-caption-text {
+        padding: 0.8075em 0;
+        font-size: 0.875em;
+        font-style: italic;
+    }
+}
+
+.wp-caption-text {
+    text-align: center;
+}
+
+// Gallery
+//--------------------------------------------------
+
+.gallery {
+    margin-bottom: 1.5em;
+}
+
+.gallery-item {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    width: 100%;
+}
+
+.gallery-caption {
+    display: block;
+}
+
+.col-offset-left{
+    .cms-project-carousel{
+        @media #{$min-xl} {
+            .grid-filter-wrap{
+                margin-left: 150px;
+            }
+            .slick-dots{
+                margin-right: 250px;
+            }
+        }
+    }
+}
+.col-offset-right{
+    .cms-project-carousel{
+        @media #{$min-xl} {
+            .grid-filter-wrap{
+                margin-right: 150px;
+            }
+            .slick-dots{
+                margin-left: 250px;
+            }
+        }
+    }
+}

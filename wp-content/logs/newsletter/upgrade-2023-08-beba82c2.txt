@@ -1,0 +1,28 @@
+29-08-2023 09:40:26 - INFO  - 7.9.1 - 73.3 MB/256 MB - [cron] > Start upgrade from 0.0.0
+29-08-2023 09:40:26 - INFO  - 7.9.1 - 76.1 MB/256 MB - [cron] > Array
+(
+    [`vph_newsletter_emails`] => Created table `vph_newsletter_emails`
+)
+
+29-08-2023 09:40:26 - INFO  - 7.9.1 - 76.1 MB/256 MB - [cron] > Array
+(
+    [`vph_newsletter_sent`] => Created table `vph_newsletter_sent`
+)
+
+29-08-2023 09:40:26 - INFO  - 7.9.1 - 76.1 MB/256 MB - [cron] > Array
+(
+    [`vph_newsletter`] => Created table `vph_newsletter`
+)
+
+29-08-2023 09:40:26 - INFO  - 7.9.1 - 76.1 MB/256 MB - [cron] > Array
+(
+    [`vph_newsletter_user_logs`] => Created table `vph_newsletter_user_logs`
+)
+
+29-08-2023 09:40:26 - INFO  - 7.9.1 - 76.1 MB/256 MB - [cron] > Array
+(
+    [`vph_newsletter_stats`] => Created table `vph_newsletter_stats`
+)
+
+29-08-2023 09:40:26 - INFO  - 7.9.1 - 76.1 MB/256 MB - [cron] > Backing up options of 0.0.0
+29-08-2023 09:40:26 - INFO  - 7.9.1 - 76.1 MB/256 MB - [cron] > End

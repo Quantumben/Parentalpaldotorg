@@ -1,0 +1,16 @@
+[10-Jun-2024 23:18:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[10-Jun-2024 23:18:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[10-Jun-2024 23:18:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[10-Jun-2024 23:18:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17

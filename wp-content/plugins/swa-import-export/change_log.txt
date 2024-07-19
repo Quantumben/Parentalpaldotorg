@@ -1,0 +1,29 @@
+V1.0.0: -Publish plugin.
+================================================================================
+V1.0.1: -Update custom Taxonomy import export.
+================================================================================
+V1.0.2: -Update wordpress importer.
+================================================================================
+V1.0.3: -Fixed reset site issue.
+        -Update content import feature.
+================================================================================
+V1.0.4: -Add advance options.
+        -Add manual importing feature.
+        -Add manual regenerate thumbnails.
+        -Update parsers API.
+	    -Fixed import term meta error.
+================================================================================
+V1.0.5: -Fix function swa_woo_attributes_import.
+================================================================================
+V1.0.6: -Fix import export revslider.
+================================================================================
+V1.0.7: -Fix product variation.
+================================================================================
+V1.0.8: -Apply for Elementor Theme core
+================================================================================
+V1.0.9: - Fix import _elementor_data (postmeta)
+================================================================================
+V1.1.1:
+	- change file /includes/extra-functions.php: add function swa_import_truncate_tables
+	- change file /includes/import-export-handle.php: update function swa_ie_import_start
+================================================================================

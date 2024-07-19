@@ -1,0 +1,4 @@
+[10-Jun-2024 23:00:53 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/Requests/src/Hooks.php on line 19

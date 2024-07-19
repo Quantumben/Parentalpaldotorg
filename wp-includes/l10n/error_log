@@ -1,0 +1,8 @@
+[10-Jun-2024 23:15:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[10-Jun-2024 23:15:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/l10n/class-wp-translation-file-php.php on line 15

@@ -1,0 +1,12 @@
+[10-Jun-2024 23:18:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[10-Jun-2024 23:18:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[10-Jun-2024 23:18:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17

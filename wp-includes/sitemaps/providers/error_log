@@ -1,0 +1,12 @@
+[10-Jun-2024 23:19:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[10-Jun-2024 23:19:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[10-Jun-2024 23:19:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

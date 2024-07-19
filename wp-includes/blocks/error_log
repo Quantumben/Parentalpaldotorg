@@ -1,0 +1,12 @@
+[10-Jun-2024 23:08:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/blocks/index.php on line 8
+[10-Jun-2024 23:33:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/blocks/index.php on line 8
+[11-Jun-2024 18:39:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/blocks/index.php on line 8

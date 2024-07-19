@@ -1,0 +1,4 @@
+[10-Jun-2024 23:00:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/Requests/library/Requests.php on line 12

@@ -1,0 +1,285 @@
+[10-Jun-2024 23:10:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-http.php on line 11
+[10-Jun-2024 23:11:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-scripts.php on line 18
+[10-Jun-2024 23:11:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-styles.php on line 18
+[10-Jun-2024 23:20:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/template-canvas.php on line 12
+[11-Jun-2024 18:08:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-patterns.php on line 9
+[11-Jun-2024 18:08:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/cache.php on line 12
+[11-Jun-2024 18:08:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-IXR.php on line 42
+[11-Jun-2024 18:09:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-feed.php on line 10
+[11-Jun-2024 18:09:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-http.php on line 11
+[11-Jun-2024 18:09:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-json.php on line 2
+[11-Jun-2024 18:09:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-oembed.php on line 12
+[11-Jun-2024 18:09:28 UTC] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-requests.php on line 24
+[11-Jun-2024 18:09:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-simplepie.php on line 5
+[11-Jun-2024 18:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-smtp.php on line 6
+[11-Jun-2024 18:09:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-snoopy.php on line 6
+[11-Jun-2024 18:09:42 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-walker-category-dropdown.php on line 17
+[11-Jun-2024 18:09:44 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-walker-category.php on line 17
+[11-Jun-2024 18:09:48 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-walker-comment.php on line 17
+[11-Jun-2024 18:09:51 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-walker-nav-menu.php on line 17
+[11-Jun-2024 18:09:56 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-walker-page-dropdown.php on line 17
+[11-Jun-2024 18:09:59 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-walker-page.php on line 17
+[11-Jun-2024 18:11:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-customize-control.php:709
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-customize-control.php on line 709
+[11-Jun-2024 18:11:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-customize-panel.php on line 411
+[11-Jun-2024 18:11:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-customize-section.php on line 412
+[11-Jun-2024 18:11:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-customize-setting.php on line 964
+[11-Jun-2024 18:12:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-feed-cache.php on line 11
+[11-Jun-2024 18:12:23 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-http-ixr-client.php on line 9
+[11-Jun-2024 18:12:29 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-http-requests-hooks.php on line 18
+[11-Jun-2024 18:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-http-requests-response.php on line 17
+[11-Jun-2024 18:12:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-http.php on line 11
+[11-Jun-2024 18:12:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-image-editor-gd.php on line 16
+[11-Jun-2024 18:12:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-image-editor-imagick.php on line 16
+[11-Jun-2024 18:14:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-scripts.php on line 18
+[11-Jun-2024 18:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-simplepie-file.php on line 19
+[11-Jun-2024 18:14:36 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[11-Jun-2024 18:14:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-styles.php on line 18
+[11-Jun-2024 18:15:01 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[11-Jun-2024 18:15:04 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[11-Jun-2024 18:15:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[11-Jun-2024 18:15:49 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class-wp-xmlrpc-server.php on line 24
+[11-Jun-2024 18:15:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class.wp-dependencies.php on line 11
+[11-Jun-2024 18:16:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class.wp-scripts.php on line 11
+[11-Jun-2024 18:16:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/class.wp-styles.php on line 11
+[11-Jun-2024 18:16:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/compat.php on line 338
+[11-Jun-2024 18:16:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/date.php on line 11
+[11-Jun-2024 18:16:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/default-filters.php on line 22
+[11-Jun-2024 18:16:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/default-widgets.php on line 11
+[11-Jun-2024 18:16:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/embed-template.php on line 11
+[11-Jun-2024 18:16:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/feed-atom-comments.php on line 8
+[11-Jun-2024 18:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/feed-atom.php on line 8
+[11-Jun-2024 18:16:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/feed-rdf.php on line 8
+[11-Jun-2024 18:16:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/feed-rss.php on line 8
+[11-Jun-2024 18:16:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/feed-rss2-comments.php on line 8
+[11-Jun-2024 18:16:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/feed-rss2.php on line 8
+[11-Jun-2024 18:17:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/functions.php on line 8
+[11-Jun-2024 18:17:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/locale.php on line 11
+[11-Jun-2024 18:17:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/media.php:2335
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/media.php on line 2335
+[11-Jun-2024 18:17:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/meta.php on line 13
+[11-Jun-2024 18:17:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/ms-blogs.php on line 11
+[11-Jun-2024 18:18:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/ms-default-filters.php on line 16
+[11-Jun-2024 18:18:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/ms-settings.php on line 35
+[11-Jun-2024 18:18:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/nav-menu-template.php on line 11
+[11-Jun-2024 18:19:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/registration-functions.php on line 9
+[11-Jun-2024 18:19:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/registration.php on line 9
+[11-Jun-2024 18:19:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rss.php on line 19
+[11-Jun-2024 18:19:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/script-loader.php on line 20
+[11-Jun-2024 18:19:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/session.php on line 9
+[11-Jun-2024 18:20:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/template-canvas.php on line 12
+[11-Jun-2024 18:20:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/template-loader.php on line 7
+[11-Jun-2024 18:20:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/update.php on line 1149
+[11-Jun-2024 18:20:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/vars.php on line 23
+[11-Jun-2024 18:20:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/wp-diff.php on line 13

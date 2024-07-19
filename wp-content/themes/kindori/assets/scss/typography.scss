@@ -1,0 +1,246 @@
+html {
+    box-sizing: border-box;
+}
+a {
+  @include transition(all 300ms linear 0ms);
+  color: #ff4880;
+}
+a, a:hover, a:focus, a:before, a:after {
+  outline: none;
+  text-decoration: none;
+}
+a:hover, a:focus {
+  color: $link_color_active;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+p {
+  margin-bottom: 15px;
+}
+body {
+  background-color: #fff;
+  font-size: 15px;
+  line-height: 1.67;
+  color: $regular_color;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  font-weight: normal;
+  letter-spacing: 0;
+  font-family: 'Prompt', sans-serif;
+  &.body-default-font {
+    @include font-family-default( $body_default_font );
+  }
+}
+.site {
+  position: relative;
+  @media #{ $max-md } {
+    overflow-x: hidden;
+  }
+}
+
+// Headings
+//--------------------------------------------------
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  color: $secondary_color;
+  clear: both;
+  line-height: 1.2;
+  margin: 0 0 15px;
+  font-weight: 700;
+}
+.heading-default-font {
+  h1, h2, h3, h4, h5, h6,
+  .h1, .h2, .h3, .h4, .h5, .h6 {
+    @include font-family-heading($heading_default_font);
+  }
+}
+
+h1, .h1 {
+  font-size: 50px;
+  line-height: 1.2;
+}
+
+h2, .h2 {
+  font-size: 42px;
+}
+
+h3, .h3 {
+  font-size: 38px;
+}
+
+h4, .h4 {
+  font-size: 32px;
+}
+
+h5, .h5 {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+h6, .h6 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+img {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+label {
+  margin-bottom: 0;
+}
+// Unit Test
+//--------------------------------------------------
+
+table {
+  border-bottom: 1px solid #ededed;
+  border-left: 1px solid #ededed;
+  border-collapse: collapse;
+  border-spacing: 0;
+  line-height: 2;
+  margin: 0 0 32px;
+  width: 100%;
+  @include border-radius(0);
+  th {
+    color: $regular_color;
+  }
+}
+caption, td {
+  font-weight: normal;
+  text-align: left;
+}
+.table > tbody > tr > td, 
+.table > tbody > tr > th, 
+.table > tfoot > tr > td, 
+.table > tfoot > tr > th, 
+.table > thead > tr > td, 
+.table > thead > tr > th {
+  padding: 13px 8px;
+}
+th {
+  font-weight: 600;
+  border-top: 1px solid rgba($secondary_color, 0.08);
+  padding: 10px;
+  border-right: 1px solid rgba($secondary_color, 0.08);
+}
+td {
+  border-top: 1px solid rgba($secondary_color, 0.08);
+  padding: 10px;
+  border-right: 1px solid rgba($secondary_color, 0.08);
+}
+/*--- Definition Lists ---*/
+dl {
+    margin: 0 0 0 25px;
+}
+dl dt {
+    font-weight: normal;
+    line-height: 26px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #000;
+}
+dl dd {
+    line-height: normal;
+    margin-bottom: 20px;
+    a {
+      color: #000;
+      &:hover {
+        color: $primary_color;
+      }
+    }
+}
+code, kbd {
+    background-color: transparent;
+    border-radius: 4px;
+    color: inherit;
+    font-size: 100%;
+    padding: 2px 4px;
+    -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+         -o-box-shadow: none;
+            box-shadow: none;
+}
+ins {
+    color: #fff;
+    border: none;
+    padding: 2px;
+    text-decoration: none;
+    background-color: $primary_color;
+}
+pre {
+    background: #f5f5f5;
+    color: #666;
+    font-size: 14px;
+    margin: 20px 0;
+    overflow: auto;
+    padding: 20px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+ol {
+  list-style: outside none decimal;
+}
+ul {
+  padding: 0;
+  margin: 0 0 15px;
+  li {
+    list-style-position: inside;
+  }
+}
+
+dl + h2 + ul {
+  padding-left: 35px;
+  ul {
+    padding-left: 35px;
+    li {
+      list-style: outside;
+    }
+  }
+}
+blockquote {
+  border-left: 2px solid $primary_color;
+  padding: 15px 0 20px 30px;
+  margin-bottom: 20px;
+  p {
+    font-size: 18px;
+    color: $secondary_color;
+    margin-bottom: 0 !important;
+  }
+  cite{
+    display: inline-block;
+    margin-top: 10px;
+  }
+}
+.post-password-form {
+  label {
+    display: block;
+    max-width: 60%;
+  }
+  input {
+    margin: 10px 0;
+  }
+}
+@media #{$max-sm} {
+  .post-password-form label {
+    max-width: 60%;
+  }
+}
+#tslOverlay {
+  background-color: transparent !important;
+}
+#elementor-panel-get-pro-elements {
+  display: none !important;
+}
+.elementor-icons-manager__tab__item {
+  height: 80px !important;
+}

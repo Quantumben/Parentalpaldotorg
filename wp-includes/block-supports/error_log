@@ -1,0 +1,60 @@
+[10-Jun-2024 23:07:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/align.php on line 59
+[10-Jun-2024 23:07:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/background.php on line 131
+[10-Jun-2024 23:07:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/border.php on line 170
+[10-Jun-2024 23:07:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/colors.php on line 138
+[10-Jun-2024 23:07:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/custom-classname.php on line 59
+[10-Jun-2024 23:07:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/dimensions.php on line 164
+[10-Jun-2024 23:07:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/duotone.php on line 36
+[10-Jun-2024 23:07:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/elements.php on line 231
+[10-Jun-2024 23:07:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/generated-classname.php on line 66
+[10-Jun-2024 23:07:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/layout.php:855
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/layout.php on line 855
+[10-Jun-2024 23:07:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/position.php on line 145
+[10-Jun-2024 23:07:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/settings.php on line 151
+[10-Jun-2024 23:07:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/shadow.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/shadow.php on line 75
+[10-Jun-2024 23:07:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/spacing.php on line 83
+[10-Jun-2024 23:08:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/typography.php:653
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/block-supports/typography.php on line 653

@@ -1,0 +1,4 @@
+[10-Jun-2024 23:19:51 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/sodium_compat/lib/ristretto255.php on line 6

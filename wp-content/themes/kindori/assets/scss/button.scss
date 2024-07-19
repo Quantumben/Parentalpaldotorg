@@ -1,0 +1,284 @@
+/* CMS Button */
+.btn,
+button,
+.button,
+input[type="submit"] {
+  background-color: $primary_color;
+  font-size: 15px;
+  color: #fff;
+  text-transform: capitalize;
+  padding: 0 26px;
+  line-height: 48px;
+  @include transition(all 300ms linear 0ms);
+  @include border-radius(10px);
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border: 1px solid $primary_color;
+  &:hover, &:focus {
+    @include box-shadow(none);
+    outline: medium none;
+    text-decoration: none;
+    color: #fff;
+    background-color: $secondary_color;
+    border-color: $secondary_color;
+  }
+}
+.btn {
+  i {
+    margin-left: 8px;
+    font-size: 22px;
+    position: relative;
+    top: 2px;
+    &.space-left {
+      margin-left: 0;
+      margin-right: 8px;
+    }
+  }
+  &.btn-small {
+    padding-left: 15px;
+    padding-right: 15px;
+    line-height: 37px;
+  }
+  &.btn-primary-noborder {
+    padding: 0;
+    background-color: transparent;
+    color: $primary_color;
+    border: none;
+    &:hover, &:focus {
+      color: $secondary_color;
+    }
+  }
+  &.btn-outline {
+    background-color: transparent;
+    color: $primary_color;
+    border: 2px solid $primary_color;
+    &:hover {
+      background-color: $primary_color;
+      color: #fff;
+    }
+  }
+
+  &.btn-secondary {
+    background-color: $secondary_color;
+    border-color: $secondary_color;
+    &:hover, &:focus {
+      background-color: $primary_color;
+      border-color: $primary_color;
+      color: #fff;
+    }
+    &.btn-secondary2 {
+      &:hover, &:focus {
+        background-color: #f8f8f8;
+        border-color: #f8f8f8;
+        color: $primary_color;
+      }
+    }
+    &.btn-secondary3 {
+      &:hover, &:focus {
+        background-color: #222;
+        border-color: #222;
+        color: #fff;
+      }
+    }
+  }
+  &.btn-outline-secondary {
+    background-color: transparent;
+    border-color: $secondary_color;
+    color: $secondary_color;
+    &:hover, &:focus {
+      border-color: $primary_color;
+      color: $primary_color;
+    } 
+    &.btn-outline-hv-primary {
+      &:hover, &:focus {
+        background-color: $primary_color;
+        border-color: $primary_color;
+        color: #fff;
+      } 
+    }
+    &.btn-outline-hv-secondary {
+      &:hover, &:focus {
+        background-color: $secondary_color;
+        border-color: $secondary_color;
+        color: #fff;
+      } 
+    }
+  }
+  &.btn-secondary-noborder {
+    background-color: transparent;
+    color: $secondary_color;
+    border: none;
+    padding: 0;
+    &:hover, &:focus {
+      color: $primary_color;
+    }
+  }
+  &.btn-white {
+    background-color: #fff;
+    border-color: #fff;
+    color: #0e2b5d;
+    &:hover, &:focus {
+      background-color: transparent;
+      border-color: #fff;
+      color: #fff;
+    }
+  }
+
+  &.btn-outline-white {
+    background-color: transparent;
+    border-color: #fff;
+    &:hover {
+      background-color: #fff;
+      color: #0e2b5d;
+    }
+  }
+  &.btn-white-noborder {
+    padding: 0;
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    &:hover, &:focus {
+      color: $primary_color;
+    }
+  }
+}
+.btn-align-center {
+  text-align: center;
+}
+.btn-align-right {
+  text-align: right;
+}
+.btn-group .btn + .btn {
+  margin-left: 30px;
+}
+
+.elementor-widget-wrap > .btn-inline.elementor-widget {
+  display: inline-block;
+  width: auto;
+  .cms-button-wrapper {
+    margin-right: 40px;
+    margin-bottom: 30px;
+  }
+  + .elementor-widget-image {
+    float: left;
+    width: auto;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+}
+.btn-icon-custom {
+  i {
+    margin-left: 0;
+    margin-right: 0;
+    @include transition(all 300ms linear 0ms);
+    width: 22px;
+    height: 22px;
+    line-height: 23px;
+    @include border-radius(22px);
+    font-size: 13px;
+  }
+  &.bg-sp {
+    a {
+        color: #fff!important;
+        background-color: $secondary_color!important;
+        border-color: $secondary_color!important;      
+    }
+    i {
+      top: -1px;
+      background-color: #fff;
+      color: $secondary_color;
+    }
+    &:hover {
+      a {
+        background-color: $primary_color!important;
+        border-color: $primary_color!important;
+        color: #fff;
+        i {
+          color: $primary_color!important;
+        }
+      }
+    }
+  }
+  &.bg-ps {
+    a {
+        color: #fff!important;
+        background-color: $primary_color!important;
+        border-color: $primary_color!important;      
+    }
+    i {
+      top: -1px;
+      background-color: #fff;
+      color: $primary_color;
+    }
+    &:hover {
+      a {
+        color: #fff;
+        background-color: $secondary_color!important;
+        border-color: $secondary_color!important;
+        color: #fff;
+        i {
+          color: $secondary_color!important;
+        }
+      }
+    }
+  }
+  &.bg-sw {
+    a {
+        color: #fff;
+        background-color: $secondary_color!important;
+        border-color: $secondary_color!important;      
+    }
+    i {
+      top: -1px;
+      background-color: #fff;
+      color: $secondary_color;
+    }
+    &:hover {
+      a {
+        color: $secondary_color;
+        background-color: #fff!important;
+        border-color: #fff!important;
+        i {
+          background-color: $secondary_color!important;
+          color: #fff;
+        }
+      }
+    }
+  }
+  &.bg-wp {
+    a {
+        color: $secondary_color;
+        background-color: #fff!important;
+        border-color: #fff!important;      
+    }
+    i {
+      top: -1px;
+      background-color: $secondary_color;
+      color: #fff;
+    }
+    &:hover {
+      a {
+        background-color: $primary_color!important;
+        border-color: $primary_color!important;
+        color: #fff;
+        i {
+          background-color: #fff;
+          color: $primary_color!important;
+        }
+      }
+    }
+  }
+}
+
+.cms-button-layout1 {
+  .cms-align-icon-left {
+    position: relative;
+    top: 1px;
+    margin-right: 5px;
+  }
+}

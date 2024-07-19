@@ -1,0 +1,28 @@
+05-07-2024 04:53:36 - INFO  - 7.9.1 - 21.8 MB/256 MB -  > Start upgrade from 8.4.1
+05-07-2024 04:53:36 - INFO  - 7.9.1 - 22.3 MB/256 MB -  > Array
+(
+    [`vph_newsletter_emails`] => Created table `vph_newsletter_emails`
+)
+
+05-07-2024 04:53:36 - INFO  - 7.9.1 - 22.3 MB/256 MB -  > Array
+(
+    [`vph_newsletter_sent`] => Created table `vph_newsletter_sent`
+)
+
+05-07-2024 04:53:36 - INFO  - 7.9.1 - 22.3 MB/256 MB -  > Array
+(
+    [`vph_newsletter`] => Created table `vph_newsletter`
+)
+
+05-07-2024 04:53:36 - INFO  - 7.9.1 - 22.3 MB/256 MB -  > Array
+(
+    [`vph_newsletter_user_logs`] => Created table `vph_newsletter_user_logs`
+)
+
+05-07-2024 04:53:36 - INFO  - 7.9.1 - 22.3 MB/256 MB -  > Array
+(
+    [`vph_newsletter_stats`] => Created table `vph_newsletter_stats`
+)
+
+05-07-2024 04:53:36 - INFO  - 7.9.1 - 22.3 MB/256 MB -  > Backing up options of 8.4.1
+05-07-2024 04:53:36 - INFO  - 7.9.1 - 22.3 MB/256 MB -  > End

@@ -1,0 +1,8 @@
+[10-Jun-2024 23:16:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[11-Jun-2024 18:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/tokencoi/parentalpal.thrilldigitals.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
